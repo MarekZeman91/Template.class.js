@@ -1,11 +1,11 @@
 /**
-* Project: Template.class
-* Author: Marek Zeman
-* Twitter: MarekZeman91
-* Site: http://marekzeman.cz
-* License: MIT
-* Version: 1.01
-*/
+ * Project: Template.class
+ * Author: Marek Zeman
+ * Twitter: MarekZeman91
+ * Site: http://marekzeman.cz
+ * License: MIT
+ * Version: 1.01
+ */
 const TemplatePartials = {};
 class Template {
     constructor(template) {
